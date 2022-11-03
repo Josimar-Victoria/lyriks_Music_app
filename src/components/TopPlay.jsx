@@ -8,8 +8,8 @@ import PlayPause from './PlayPause';
 import { playPause, setActiveSong } from '../redux/features/playerSlice';
 import { useGetTopChartsQuery } from '../redux/services/shazamCore';
 
-import 'swiper/css';
-import 'swiper/css/free-mode';
+// import 'swiper/css';
+// import 'swiper/css/free-mode';
 
 const TopChartCard = ({
   song,
@@ -110,7 +110,7 @@ const TopPlay = () => {
           modules={[FreeMode]}
           className="mt-4"
         >
-          {topPlays?.map((song, i) => (
+          {topPlays?.map((song) => (
             <SwiperSlide
               key={song.key}
               style={{ width: '25%', height: 'auto' }}
