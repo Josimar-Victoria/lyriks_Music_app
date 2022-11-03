@@ -4,6 +4,7 @@ Develop an elegant React.js Music Application.
 https://lyriks-music-01.netlify.app/
 
 Check out the complete project requirements [here](https://docs.google.com/document/d/13PeFwRlPEhMw_HPyrIrInvQuKaVWnpNmcv-y3NA208s/edit?usp=sharing)
+<img src='https://github.com/Josimar-Victoria/lyriks_Music_app/blob/main/src/assets/Captura%20desde%202022-11-03%2010-55-12.png?raw=true' alt='img project'/>
 
 # Contributing
 
